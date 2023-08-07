@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 700 /root
+chmod u+x /root
