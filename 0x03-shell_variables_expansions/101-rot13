@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'I am a girl in a bus going to town' | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+echo 'I am a girl in a bus going to town' | tr 'A-Za-z' 'N-ZA-Mn-za-m' <<< 'I am a girl in a bus going to town'
